@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div>
-      <h1>React Testing Example CICD BY Rahat</h1>
+      <h1>React Testing Example CICD BY Rahat Hossain</h1>
       <p>Count: {count}</p>
       <button onClick={incrementCount}>Increment</button>
     </div>
